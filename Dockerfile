@@ -1,6 +1,6 @@
-FROM alpine:3.18
+FROM alpine:3.21
 
-MAINTAINER Kamran Azeem & Henrik Høegh (kamranazeem@gmail.com, henrikrhoegh@gmail.com)
+MAINTAINER Eric Soto (easoto@iss-pr.com)
 
 EXPOSE 80 443 1180 11443
 
