@@ -6,8 +6,6 @@ active HTTP/HTTPS ports. Ideal for testing connectivity, DNS, routing, HTTP(S) e
 
 ## Docker Hub
 
-Image: https://hub.docker.com/r/ericwastakenondocker/network-multitool-base
-
 Pull:
 
 ```sh
